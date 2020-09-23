@@ -1,5 +1,5 @@
 # PaymentOop
-run http://localhost/pay/ or http://localhost/pay/index.php
+run http://localhost/PaymentOop/ or http://localhost/PaymentOop/index.php according to the project folder name
 
 Run: composer dump-autoload -o
 
