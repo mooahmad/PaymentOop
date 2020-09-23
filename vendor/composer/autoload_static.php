@@ -24,8 +24,8 @@ class ComposerStaticInitcd877617e3a95da89fc9fee5b8ec783e
         'App\\BankTransfer' => __DIR__ . '/../..' . '/Payment/BankTransfer.php',
         'App\\MethodsTypes' => __DIR__ . '/../..' . '/Payment/MethodsTypes.php',
         'App\\PaymentGateway' => __DIR__ . '/../..' . '/Payment/PaymentGateway.php',
-        'App\\PaymentLoad' => __DIR__ . '/../..' . '/Payment/PaymentLoad.php',
-        'App\\PaymentProcess' => __DIR__ . '/../..' . '/Payment/PaymentProcess.php',
+        'App\\PaymentLoad' => __DIR__ . '/../..',
+        'App\\PaymentProcess' => __DIR__ . '/../..',
         'App\\Payments' => __DIR__ . '/../..' . '/Payment/Payments.php',
         'App\\User' => __DIR__ . '/../..' . '/Payment/User.php',
     );

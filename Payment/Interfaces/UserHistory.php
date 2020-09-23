@@ -1,8 +1,5 @@
 <?php
-
-
-namespace App;
-
+namespace App\Interfaces;
 
 interface UserHistory
 {

@@ -1,5 +1,7 @@
 <?php
 namespace App;
+use App\Interfaces\PaymentLoad;
+use App\Interfaces\PaymentProcess;
 use App\Payments as Pay;
 
 class CreditCard extends Pay implements PaymentLoad , PaymentProcess

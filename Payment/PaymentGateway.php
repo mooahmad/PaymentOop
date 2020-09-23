@@ -1,6 +1,8 @@
 <?php
 namespace App;
 
+use App\Interfaces\PaymentProcess;
+
 /**
  * Class PaymentGateway
  */

@@ -1,6 +1,9 @@
 <?php
 namespace App;
+use App\Interfaces\PaymentLoad;
+use App\Interfaces\PaymentProcess;
 use App\Payments as Pay;
+
 
 class BankTransfer extends Pay implements PaymentLoad , PaymentProcess
 {
