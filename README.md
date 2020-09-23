@@ -1,4 +1,9 @@
 # PaymentOop
+First , The code is written as a business logic
+
+
+
+
 run http://localhost/PaymentOop/ or http://localhost/PaymentOop/index.php according to the project folder name
 
 Run: composer dump-autoload -o
