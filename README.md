@@ -22,7 +22,7 @@ print_r($pay->takePayment(new \App\CreditCard(100, 'us', 9, \App\MethodsTypes::C
 
 //
 
-////Note: this case will fail because  visa is not in User MethodsType (MethodsType.php) and will record the action action.log
+//Note: this case will fail because  visa is not in User MethodsType (MethodsType.php) and will record the action action.log
 
 //$pay = new PaymentGateway();
 
@@ -32,7 +32,7 @@ print_r($pay->takePayment(new \App\CreditCard(100, 'us', 9, \App\MethodsTypes::C
 
 //
 
-//// return the user payment history
+// return the user payment history
 
 //$userHistory = new PaymentHistory(10);
 
